@@ -1,0 +1,10 @@
+
+<div id="storeslider_wrapper" class="row" style="margin-top: 0px !important;padding-top: 0px !important;">
+    <slick id="storeslider" ng-if="dataLoaded" autoplay={{CAROUSEL_AUTO_PLAY}} init-onload="false" data="dataLoaded" slick-apply='slickApply' slides-to-show=3 slides-to-scroll=1 class="col-md-12 slider responsive multiple-items center-wrapper">
+        <div class="carousel_block" ng-repeat="slide in slides">
+            <pill-content content="slide"></pill-content>
+        </div>
+    </slick>
+</div>
+<header class="carousel_trim" style="margin-top:-30px !important;"></header>
+

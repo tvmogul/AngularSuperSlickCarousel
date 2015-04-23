@@ -1,0 +1,186 @@
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Arial, geneva, sans-serif;
+    font-size: 11px;
+    color: #000000;
+    background-color: #ffffff;
+    /* background-image: url(../ac_img/bg-fiber.jpg); */
+    background-repeat: repeat;
+    background-position: fixed;
+}
+
+.entry-photo {
+    display: inline-block;
+    vertical-align: text-top;
+    white-space: normal;
+    margin: 0px 30px 0px 0px;
+    /* width: 447px;
+    height: 400px;
+    margin: 0px 20px 0px 0px;
+    background-image: url(../ac_img/entry/bg-photo.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-position: 0px 15px; */
+}
+
+.entry-photo h2 {
+    padding-left: 26px;
+}
+
+/*
+.entry-photo .entry-img {
+    margin-left: 36px;
+}
+
+.entry-photo .entry-img span {
+    display: block;
+    width: 390px;
+    height: 255px;
+    background-color: #000;
+    overflow: hidden;
+}
+*/
+
+.entry-photo .entry-img span img {
+    display: block;
+    width: 390px;
+}
+
+.entry-photo .entry-text {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.entry-video {
+    display: inline-block;
+    vertical-align: text-top;
+    white-space: normal;
+    width: 430px;
+    height: 400px;
+    margin: 0px 20px 0px 10px;
+    padding: 0px 0px 0px 0px;
+    background-image: url(../ac_img/entry/bg-video.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-position: 0px 15px;
+}
+
+.entry-video h2 {
+    padding-left: 20px;
+}
+
+.entry-video .entry-text {
+    margin-top: 50px;
+    text-align: center;
+}
+
+/*
+.entry-vid {
+    display: block;
+    margin: 20px 0px 0px 70px;
+    width: 280px;
+    height: 200px;
+    background-color: #000;
+}
+*/
+
+
+
+
+
+.entry-note {
+    display: inline-block;
+    vertical-align: text-top;
+    white-space: normal;
+    width: 300px;
+    height: 400px;
+    padding: 20px 20px 20px 20px;
+    background: url('../ac_img/entry/bg-note.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
+}
+
+.entry-note .entry-text {
+    margin-top: 10px;
+}
+
+.entry-note A {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.entry-note A:hover {
+    color: #00adef;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.entry-text {
+    display: block;
+    width: 400px;
+    margin: 0px 0px 0px 10px;
+    text-align: left;
+}
+
+.entry-title {
+    display: block;
+    height: 25px;
+    font: 20px Verdana, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.entry-carousel_caption {
+    display: block;
+    height: 25px;
+    font: 20px Verdana, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.entry-copy {
+    display: block;
+    font: 14px Verdana, Helvetica, Arial, sans-serif;
+    line-height: 18px;
+    color: #000;
+}
+
+.entry-img {
+    display: block;
+    margin: 15px 0px 0px 10px;
+    width: 300px;
+}
+
+
+
+.imageborder{
+border-width: 20px;
+-moz-border-image: url(../ac_img/frame1.png) 20 stretch; /*Mozilla version*/
+-webkit-border-image: url(../ac_img/frame1.png) 20 stretch; /*Webkit version*/
+-o-border-image: url(../ac_img/frame1.png) 20 stretch; /*Opera version*/
+-ms-border-image: url(../ac_img/frame1.png) 20 stretch; /*IE syntax when it does support this prop*/
+border-image: url(../ac_img/frame1.png) 20 stretch; /*Standard version*/
+}
+
+
+.imageborder2{
+border-width: 25px 30px;
+-moz-border-image: url(../ac_img/frame2.png) 25 30 stretch;
+-webkit-border-image: url(../ac_img/frame2.png) 25 30 stretch;
+-o-border-image: url(../ac_img/frame2.png) 25 30 stretch;
+-ms-border-image: url(../ac_img/frame2.png) 25 30 stretch;
+border-image: url(../ac_img/frame2.png) 25 30 stretch;
+}

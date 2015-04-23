@@ -1,0 +1,62 @@
+[
+    {
+		"display_type" : "image", 
+		"carousel_caption" : "Image 00", 
+		"display_data" : "temp-photo.jpg"
+	},
+    {
+		"display_type" : "video", 
+		"carousel_caption" : "Video 00", 
+		"display_data" : "http://player.vimeo.com/video/37176398"
+	},
+    {
+		"display_type" : "notes", 
+		"carousel_caption" : "Notes 00", 
+		"display_data" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar pretium felis. Vivamus nibh felis, condimentum sit amet laoreet luctus, posuere auctor lorem. Nullam malesuada."
+	},
+    {
+		"display_type" : "image", 
+		"carousel_caption" : "Image 01", 
+		"display_data" : "temp-photo.jpg"
+	},
+    {
+		"display_type" : "video", 
+		"carousel_caption" : "Video 01", 
+		"display_data" : "http://player.vimeo.com/video/37176398"
+	},
+    {
+		"display_type" : "notes", 
+		"carousel_caption" : "Notes 01", 
+		"display_data" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar pretium felis. Vivamus nibh felis, condimentum sit amet laoreet luctus, posuere auctor lorem. Nullam malesuada."
+	},
+    {
+		"display_type" : "image", 
+		"carousel_caption" : "Image 02", 
+		"display_data" : "temp-photo.jpg"
+	},
+    {
+		"display_type" : "video", 
+		"carousel_caption" : "Video 02", 
+		"display_data" : "http://player.vimeo.com/video/37176398"
+	},
+    {
+		"display_type" : "notes", 
+		"carousel_caption" : "Notes 02", 
+		"display_data" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar pretium felis. Vivamus nibh felis, condimentum sit amet laoreet luctus, posuere auctor lorem. Nullam malesuada."
+	},
+    {
+		"display_type" : "image", 
+		"carousel_caption" : "Image 03", 
+		"display_data" : "temp-photo.jpg"
+	},
+    {
+		"display_type" : "video", 
+		"carousel_caption" : "Video 03", 
+		"display_data" : "http://player.vimeo.com/video/37176398"
+	},
+    {
+		"display_type" : "notes", 
+		"carousel_caption" : "Notes 03", 
+		"display_data" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar pretium felis. Vivamus nibh felis, condimentum sit amet laoreet luctus, posuere auctor lorem. Nullam malesuada."
+	}
+]
