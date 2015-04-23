@@ -11,10 +11,12 @@ Angular Carousel - This is the BEST Angular Carousel on the Web -- Try It and Se
 
 
 <ul class="download">
-	<li><a href="http://www.codeproject.com/KB/HTML/895739/AmgularSuperSlickCarousel.zip">Download AmgularSuperSlickCarousel.zip - 8.6 MB</a></li>
+	<li><a href="http://www.codeproject.com/KB/HTML/895739/AngularSuperSlickCarousel.zip">Download AmgularSuperSlickCarousel.zip - 8.6 MB</a></li>
 </ul>
 
-<h4><a href="http://www.software-rus.com/storefront.html" target="_blank">Click Here to See A Working Demo of this AngularJS Slick Carousel</a></h4>
+<h4><a href="http://www.SerGioApps.com/storefront.html" target="_blank">Click Here to See A Working Demo of My AngularJS Super Slick Carousel</a></h4>
+
+<h4><a href="http://www.software-rus.com/storefront.html" target="_blank">Click Here to My Other FREE Source Code Projects</a></h4>
 
 <p><img height="230px" src="article_files/scarousel.gif" width="480px"></p>
 
