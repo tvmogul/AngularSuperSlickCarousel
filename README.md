@@ -1,5 +1,5 @@
-# AngularSuperSlickCarousel
-Angular Carousel - This is the BEST Angular Carousel on the Web -- Try It and See for Yourself
+# Angular Super Slick Carousel
+This is the BEST Angular Carousel on the Web -- Try It and See for Yourself
 
 
 <hr class="Divider subdue">
