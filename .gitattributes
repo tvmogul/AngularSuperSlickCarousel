@@ -1,5 +1,4 @@
-*.angular linguist-detectable=false
-*.tyescript linguist-detectable=false
+*.ts linguist-detectable=true
 *.java linguist-detectable=false
 *.css linguist-detectable=false
 *.csharp linguist-detectable=false
@@ -8,6 +7,7 @@
 *.xml linguist-detectable=false    
 
 * text=auto
-*.js linguist-language=angular
-*.css linguist-language=angular
-*.html linguist-language=angular
+*.js linguist-language=tyescript
+*.css linguist-language=tyescript
+*.html linguist-language=tyescript
+*.ts linguist-language=tyescript
