@@ -1,20 +1,13 @@
-*.typescript linguist-detectable=true
-*.angular linguist-detectable=true
+*.angular linguist-detectable=false
+*.tyescript linguist-detectable=false
 *.java linguist-detectable=false
-*.javascript linguist-detectable=false
+*.css linguist-detectable=false
 *.csharp linguist-detectable=false
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
-*.xml linguist-detectable=false 
+*.xml linguist-detectable=false    
 
-# These files are text and should be normalized (Convert crlf => lf)
-*.php text
-*.css text
-*.js text
-*.htm text
-*.html text
-*.xml text
-*.txt text
-*.ini text
-*.inc text
-.htaccess text
+* text=auto
+*.js linguist-language=angular
+*.css linguist-language=angular
+*.html linguist-language=angular
