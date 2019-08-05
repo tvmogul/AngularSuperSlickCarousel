@@ -7,9 +7,4 @@
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false    
 
-* text=auto
-*.js linguist-language=typescript
-*.css linguist-language=typescript
-*.html linguist-language=typescript
-*.ts linguist-language=typescript
-*.javascript linguist-language=typescript
+
